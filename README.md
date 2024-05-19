@@ -131,4 +131,5 @@ Integrating these technologies can create a modern, performant, and user-friendl
 
 ## References
 
-https://developer.mozilla.org/en-US/
+- [Getting started with the web](https://developer.mozilla.org/en-US/)
+- [HTML Tutorial for Beginners](https://youtu.be/qz0aGYrrlhU?si=HWYBBbnujauWh1LK)
